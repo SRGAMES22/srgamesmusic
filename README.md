@@ -1,22 +1,26 @@
-# copia do spotify 🎵
 
-App de música completo!
+### 8. srgamesmusic
+```markdown
+# SRGames Music
+
+Clone de aplicativo de música (estilo Spotify) com frontend moderno e backend.
 
 ## Estrutura
+- `/front-end` → Frontend (Vite)
+- `/back-end` → Backend Node.js
 
-- `/frontend` → Frontend com Vite
-- `/backend` → Backend Node.js
+## Tecnologias
+- Frontend: Vite + JavaScript
+- Backend: Node.js
 
-## Como rodar
-
-### Frontend
-
-cd frontend
+## Como executar
+```bash
+# Frontend
+cd front-end
 npm install
 npm run dev
 
-### Backend
-
-cd backend
+# Backend
+cd back-end
 npm install
 npm start
